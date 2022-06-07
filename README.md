@@ -9,6 +9,8 @@
 - 😁Fun facts about me: Enjoy logic problems and boulder climbing, play basketball and computer games in free time
 
 
-
+ 
+ 
+ 
 ![ProductivityThomasFrankGIF](https://user-images.githubusercontent.com/93078589/172235465-797ab8e1-3bb2-4181-9f46-c0ed5e1e87ed.gif)
 
