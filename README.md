@@ -20,3 +20,5 @@ As a 24-year-old Software Engineering student at SCE - Shamoon College of Engine
 
 #### 🏆 Academic Achievements:
 - Honorary degrees for high academic performance.
+
+![שדג](https://github.com/EladSapir/EladSapir/assets/93078589/4d1e87dd-6fb9-4d2a-8850-bad2a077310a)
