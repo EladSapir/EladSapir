@@ -1,30 +1,22 @@
 ### Hello, I'm Elad Sapir! 👋
 
-Welcome to my GitHub profile! As a passionate Software Engineering student in my 4th year at SCE - Shamoon College of Engineering, I specialize in Artificial Intelligence and am deeply engaged in exploring the vast world of coding and technology.
+As a 24-year-old Software Engineering student at SCE - Shamoon College of Engineering, I specialize in Artificial Intelligence. My journey is marked by academic honors and a deep engagement in advanced technology.
 
-#### 🌱 What I'm Focusing On:
-- Pursuing a specialized track in Artificial Intelligence as part of my B.Sc in Software Engineering.
-- Deepening my understanding of algorithms, data structures, software design patterns, AI, and machine learning.
-- Actively exploring new technologies and frameworks to expand my skill set.
+#### 🌱 Core Skills and Expertise:
+- Advanced knowledge in Data Structures, Advanced Algorithms, Software Architecture, and Machine Learning.
+- Proficient in programming languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### 🏢 Career Aspirations:
-- Eager to land my first role in the software industry to contribute and grow professionally.
-- Passionate about software development, system design, AI, and continuously expanding my knowledge in every area possible.
+- Aspiring to secure a role in the software industry, focusing on AI, system design, and development.
 
-#### 🎓 Teaching and Mentoring:
-- I take pride in teaching and guiding beginning students in the basics of software engineering, software testing, and quality. Sharing knowledge and helping others grow is a vital part of my journey.
+#### 🎓 Academic and Teaching Experience:
+- Teaching software engineering fundamentals, testing, and quality assurance as part of the academic staff.
 
-#### 📫 Reach Out to Me:
-- Let's connect! Feel free to reach me at [elad.1999.1999@gmail.com](mailto:elad.1999.1999@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/elad-sapir).
+#### 📫 Connect with Me:
+- [Email](mailto:elad.1999.1999@gmail.com) | [LinkedIn](https://www.linkedin.com/in/elad-sapir)
 
-#### 💻 Coding Skills:
-- Proficient in ![C](https://img.shields.io/badge/-C-000?&logo=C), ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B), ![Java](https://img.shields.io/badge/-Java-000?&logo=java), and ![Python](https://img.shields.io/badge/-Python-000?&logo=python).
-- Versatile in various coding languages and methodologies, with a quick learning curve.
-- Experienced with software development methodologies and version control (Git).
+#### 😁 Personal Interests:
+- Enjoys boulder climbing, basketball, and computer games.
 
-#### 😁 A Bit More About Me:
-- Keen on tackling complex logic problems and boulder climbing for fitness.
-- A basketball player and avid computer gamer in my leisure time.
-- Always enthusiastic about discussing technology, gaming strategies, and creative ideas.
-
-![Coding and Productivity GIF](https://user-images.githubusercontent.com/93078589/172235465-797ab8e1-3bb2)
+#### 🏆 Academic Achievements:
+- Honorary degrees for high academic performance.
