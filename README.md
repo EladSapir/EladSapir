@@ -1,6 +1,6 @@
 ### Hello, I'm Elad Sapir! 👋
 
-As a 24-year-old Software Engineering student at SCE - Shamoon College of Engineering, I specialize in Artificial Intelligence. My journey is marked by academic honors and a deep engagement in advanced technology.
+As a 25-year-old Software Engineering student at SCE - Shamoon College of Engineering, I specialize in Artificial Intelligence. My journey is marked by academic honors and a deep engagement in advanced technology.
 
 #### 🌱 Core Skills and Expertise:
 - Advanced knowledge in Data Structures, Advanced Algorithms, Software Architecture, and Machine Learning.
